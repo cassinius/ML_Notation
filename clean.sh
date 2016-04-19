@@ -7,3 +7,5 @@ rm *.blg
 rm *.log
 rm *.lof
 rm *.toc
+rm *.out
+rm *.pdf
