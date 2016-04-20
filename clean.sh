@@ -9,3 +9,4 @@ rm *.lof
 rm *.toc
 rm *.out
 rm *.pdf
+rm *.bbl
